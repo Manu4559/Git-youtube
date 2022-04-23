@@ -7,7 +7,9 @@
 5- git checkout -- . : Recupera los archivos subidos en el último commit
 6- git log: Muestra el estado del repositorio con todos los commit
 7- git commit --amend : Para modificar el mensaje de un commit
-8- git commit checkout -b rama-heroes
+8- git checkout -b rama-heroes : Crea una rama
+9- git checkout master: Cambia de rama
+
 
 
 
