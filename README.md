@@ -9,7 +9,7 @@
 7- git commit --amend : Para modificar el mensaje de un commit
 8- git checkout -b rama-heroes : Crea una rama
 9- git checkout master: Cambia de rama
-
+10- git merge nombrerama
 
 
 
