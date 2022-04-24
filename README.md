@@ -11,7 +11,9 @@
 8. git checkout -b rama-heroes : Crea una rama
 9. git checkout master: Cambia de rama
 10. git merge nombrerama: para transferir los cambios de una rama a la rama master
-11. git branch -d nombreama: para borrar una rama
+11. git branch -d nombrerama: para borrar una rama
+12. git push: para subir los cambios al repositorio de GitHub
+13. git commit -am: para ejecutar los los pasos de add y commit a la vez.
 
 
 
